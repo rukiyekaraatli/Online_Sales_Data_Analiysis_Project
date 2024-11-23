@@ -1,7 +1,9 @@
 
-![Designer (2)](https://github.com/user-attachments/assets/0aaaa754-caea-4e5b-a68c-315ef841fbbe)
-
 # Online_Sales_Data_Analiysis_Project
+
+![Designer (2)](https://github.com/user-attachments/assets/cf342cee-14d2-496f-99a9-56293d221ec0)
+
+
  This project uses machine learning to predict sales returns with a Random Forest Classifier and performs Word Cloud analysis on text data. It also includes data exploration and visualization to gain insights into the data, improving understanding and model performance.
 
 # Content
