@@ -6,6 +6,9 @@
 
  This project uses machine learning to predict sales returns with a Random Forest Classifier and performs Word Cloud analysis on text data. It also includes data exploration and visualization to gain insights into the data, improving understanding and model performance.
 
+KAGGLE Project File: https://www.kaggle.com/code/rukiyekaraatli/online-sales-data-analiysis-project
+Dataset: https://www.kaggle.com/datasets/yusufdelikkaya/online-sales-dataset
+
 # Content
 
 * Return Status Prediction:
